@@ -5,6 +5,7 @@ Bicycle Light with Acceleration perception
 
 By: Stefan Kaufmann	
 
+Detailed Dokumentation in the appendix
 
 
 
