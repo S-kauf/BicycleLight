@@ -3,7 +3,7 @@
 
 By: Stefan Kaufmann	
 
-Detailed Dokumentation in the appendix
+Detailed Documentation in the appendix
 
 
 ### Video of basic functionality
